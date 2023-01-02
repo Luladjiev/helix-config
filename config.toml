@@ -8,4 +8,4 @@ select = "underline"
 hidden = false
 
 [keys.insert]
-"C-[" = "normal_mode"
+"C-c" = "normal_mode"
